@@ -1,0 +1,2 @@
+# Minsk72
+test
